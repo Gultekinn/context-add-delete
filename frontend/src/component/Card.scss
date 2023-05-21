@@ -1,0 +1,28 @@
+.div{
+    padding: 40px 90px ;
+  
+    display: flex;
+    
+    flex-wrap: wrap;
+    gap: 23px;
+  }
+  .div__card{
+      margin-top: 30px;
+      width: 230px;
+      height: 340px;
+  border-radius: 20px;
+      padding: 40px;
+      text-align: center;
+      box-shadow: rgba(108, 33, 96, 0.12) 0px 2px 4px 0px, rgba(173, 24, 161, 0.32) 0px 2px 16px 0px;
+     #imgs{
+      border-radius: 14%;
+     }
+      button{
+          background-color: palevioletred;
+          color: white;
+          font-weight: 700;
+          margin-left: 10px;
+          cursor: pointer;
+      }
+  }
+  

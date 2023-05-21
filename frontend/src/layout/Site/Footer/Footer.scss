@@ -1,0 +1,12 @@
+.foot{
+    width: 100%;
+    height: 120px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ &__text{
+        color: white;
+
+ }
+}

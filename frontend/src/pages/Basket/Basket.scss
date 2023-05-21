@@ -1,0 +1,25 @@
+.commons{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 20px;
+}
+.cards{
+   
+    width: 100%;
+    height: auto;
+    display: flex;
+align-items: center; 
+   justify-content: space-around;
+    border-radius: 30px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+button{
+    background-color: palevioletred;
+    color: white;
+    font-size: 20px;
+    font-weight: 30px;
+}
+}
+#imgs{
+    border-radius: 10px;
+}
